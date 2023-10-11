@@ -1,7 +1,7 @@
 Luiz Vieira 
 
-Tenho interesse no mercado financeiro, engenharia de dados e tecnologia. Há pouco tempo venho estudando Modelagem Quantitava.
-Quando me lembro, costumo "commitar" alguns rascunhos de projetos que faço aqui. 
+Gosto de analisar e me aprofundar em cenários, setores e negócios. 
+Costumo "commitar" alguns rascunhos de projetos que faço aqui. 
 
 Dentre as minhas linguagens preferidas estão Python e Java. 
 
