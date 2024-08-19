@@ -5,5 +5,5 @@ Costumo "commitar" alguns rascunhos de projetos que faço aqui.
 
 Dentre as minhas linguagens preferidas estão Python e Java. 
 
-Alguns livros que estou lendo atualmente: Meditações - Marco Aurélio / The Mithical Man-Month - Frederick, P. Brooks, Jr / Princípios - Ray Dalio.
+Alguns livros que estou lendo atualmente: O Andar do Bêbado / Visões do Setor Elétrico / Como Fazer Amigos e Influenciar Pessoas
 
